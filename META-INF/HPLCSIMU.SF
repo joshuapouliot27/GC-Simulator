@@ -1,0 +1,394 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: YSYepYjEAmYQelme/Y+NE+awMYk=
+Created-By: 1.6.0_26 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: hvuEPGBNDGwmz849/eIfLRnzquk=
+
+Name: org/gcsimulator/TopPanel$JChemicalTable.class
+SHA1-Digest: J2RGDZ0lu7XbgLz7PDaQOMmvwXU=
+
+Name: org/gcsimulator/help/helpfiles/images/voidvolumeeq.jpg
+SHA1-Digest: v2iJWruiX2RtO/KGLa6XxpC17MU=
+
+Name: org/gcsimulator/help/helpfiles/nonmixingvolume.htm
+SHA1-Digest: Jpgt+vg7+ulXuu6JAgzUmfBPw/E=
+
+Name: org/gcsimulator/help/helpfiles/flowvelocity.htm
+SHA1-Digest: aI05+cYDcgos3usimhhPI32mBwA=
+
+Name: org/gcsimulator/panels/OvenOptions.class
+SHA1-Digest: 4O2bqj2upH3z/QFiWFHonMPd74M=
+
+Name: org/gcsimulator/GCSimulatorApp.class
+SHA1-Digest: KLEx/8S7wVhcwaFtNK2C5M4yFkY=
+
+Name: org/gcsimulator/images/autoscale.png
+SHA1-Digest: h2byWqnOwlj+iVcn9dRg/kc5yO8=
+
+Name: org/gcsimulator/doubleWrap.class
+SHA1-Digest: NWCAS2AIKVTtyAKYN4uv5lhLn9g=
+
+Name: org/gcsimulator/help/helpfiles/images/backpressureeq.jpg
+SHA1-Digest: VFVsI7fdgD4je6elu5sS+0e0Zqc=
+
+Name: org/gcsimulator/images/zoomout.png
+SHA1-Digest: 9m0wNVQIiNaj2ea2GvTmUGoeGKQ=
+
+Name: org/gcsimulator/help/helpfiles/images/mixingdiagram.jpg
+SHA1-Digest: ULaXvce6dZ8QPyVsBjJpby956gg=
+
+Name: org/gcsimulator/help/helpfiles/columnproperties.htm
+SHA1-Digest: aCy37v8XcMWF/Zte7Efs7wWsY4A=
+
+Name: org/gcsimulator/help/helpfiles/columnlength.htm
+SHA1-Digest: RaLyF4JRm5zYZXjeFtwiaUEc1wE=
+
+Name: org/gcsimulator/help/helpfiles/images/reducedflowrateeq.jpg
+SHA1-Digest: Q2EP8b1LXwjHPiGTtoKj7MIoG9E=
+
+Name: org/gcsimulator/help/helpfiles/hetp.htm
+SHA1-Digest: i5BGMMJq1lQqUq387ZXEdOkQqOo=
+
+Name: org/gcsimulator/images/icon.png
+SHA1-Digest: OS7DslXatJ0CmB/fWfr0LLK6mPk=
+
+Name: org/gcsimulator/help/helpfiles/main_index.htm
+SHA1-Digest: gP6ULNJicV1ZADskKamE4nxXTOQ=
+
+Name: org/gcsimulator/help/helpfiles/mobilephasecomposition.htm
+SHA1-Digest: TkLLkIEFJ0Jg6KOYL1DDQWFfWms=
+
+Name: org/gcsimulator/LinearInterpolationFunction$DataPointComparator.
+ class
+SHA1-Digest: 7fuxmtpzS0HVtUP6rTCgCs0tDuI=
+
+Name: org/gcsimulator/panels/ColumnProperties.class
+SHA1-Digest: z3I8IyCS/r7oX5ddRWub7azHOOc=
+
+Name: org/gcsimulator/help/helpfiles/images/intraparticleporosityeq.jp
+ g
+SHA1-Digest: Yti1fIU9xAFwBbhMZKnsBhqZDLQ=
+
+Name: org/gcsimulator/InterpolationFunction$DataPointComparator.class
+SHA1-Digest: C/te0gYFMM8U09QbUnlsQ5tSHQg=
+
+Name: org/gcsimulator/TemperatureProgramListener.class
+SHA1-Digest: U6FLgjsma+zIX9dcGTJEhaL7u1Y=
+
+Name: org/gcsimulator/panels/TemperatureProgramOptions.class
+SHA1-Digest: VMwW1SaiEFLxaKOeTG3REP/NqFs=
+
+Name: org/gcsimulator/help/helpfiles/injectionvolume.htm
+SHA1-Digest: qG9wqJMqCJ7SLwrx31xx6HVA4yA=
+
+Name: org/gcsimulator/help/HPLCSimHelpTOC.xml
+SHA1-Digest: 0QjeA6rvBwjJLawQ/ez6hxaeXFM=
+
+Name: org/gcsimulator/help/helpfiles/interparticleporosity.htm
+SHA1-Digest: BCFYTVFWDb5WVm3DwJX5BTCOMZI=
+
+Name: org/gcsimulator/GraphControl.class
+SHA1-Digest: 923vBacV3ZcNAB7mfX8a3dWFvP0=
+
+Name: org/gcsimulator/Compound.class
+SHA1-Digest: eNvBa0PaynUnHwdTJeLeDgtj8Eo=
+
+Name: org/gcsimulator/help/helpfiles/stationaryphase.htm
+SHA1-Digest: 1gu93QBgWacTqx9hwV5kykTQemM=
+
+Name: org/gcsimulator/InterpolationFunction.class
+SHA1-Digest: 8Qj0lxIlxTojpt9PcfItgmvI2Qc=
+
+Name: org/gcsimulator/images/zoomin.gif
+SHA1-Digest: C+c40J1fmhcIzbVnfqyIFijcMRc=
+
+Name: org/gcsimulator/help/helpfiles/images/theoreticalplateseq.jpg
+SHA1-Digest: 1uZIQHh1o++lZi0uWLz1DJYYns8=
+
+Name: org/gcsimulator/help/HPLCSimHelp.hs
+SHA1-Digest: TojtBvCPPTXSqz21xLJrjBVhC30=
+
+Name: org/gcsimulator/help/JavaHelpSearch/DOCS.TAB
+SHA1-Digest: viXwEAFZvdOtPOmMDh6bce9ygOQ=
+
+Name: org/gcsimulator/help/helpfiles/voidvolume.htm
+SHA1-Digest: nophFnr17+uJ9I2+cUjbYMmItAM=
+
+Name: org/gcsimulator/images/closedhand.gif
+SHA1-Digest: 6EHmmF5x5/aU9KmZAqbiXk/vcgM=
+
+Name: org/gcsimulator/help/helpfiles/images/associationparametereq.jpg
+SHA1-Digest: pa2XfaEKRzLrCRvolaS2+sX3ofE=
+
+Name: org/gcsimulator/help/helpfiles/images/interparticleporosityeq.jp
+ g
+SHA1-Digest: fG5a4bTsLQrcozSrJUZpbqEmtdU=
+
+Name: org/gcsimulator/images/zoomout.gif
+SHA1-Digest: rpva6qbNBqB/oBbQdJjEe5jl5CM=
+
+Name: org/gcsimulator/GCSimulatorApp$JFileChooser2.class
+SHA1-Digest: AxyjYU6x/3EHhUa4EsvIiHxVJOg=
+
+Name: org/gcsimulator/help/helpfiles/solventa.htm
+SHA1-Digest: nUM9m7sywIf+YvZC/3gBJUcslDw=
+
+Name: org/gcsimulator/images/clipboard.png
+SHA1-Digest: hMWVns0CUJ8DJYLTyXBZiu47HY8=
+
+Name: org/gcsimulator/TopPanel.class
+SHA1-Digest: m2I9bFHUalRb+ITF9+tf4MerMqQ=
+
+Name: org/gcsimulator/GCSimulatorApp$1.class
+SHA1-Digest: L35fKwL+2t0q+P6WrptQfVnz18s=
+
+Name: org/gcsimulator/help/helpfiles/images/solventmweq.jpg
+SHA1-Digest: lpc8y37Tq06Tc/Z77NuG4SwnLoU=
+
+Name: org/gcsimulator/Globals.class
+SHA1-Digest: D6w5Y49rLXFOQBYXIqfWdo5wh2w=
+
+Name: org/gcsimulator/AutoScaleEvent.class
+SHA1-Digest: jYJLlEP906kYYWlaO0NkbIuASUM=
+
+Name: org/gcsimulator/help/helpfiles/images/superficialflowvelocityeq.
+ jpg
+SHA1-Digest: BEiAjJQXz33ydd1aVAzHHj94HQ4=
+
+Name: org/gcsimulator/GraphControl$DPoint.class
+SHA1-Digest: o/X9dWN32xqI/gbJbHFgV2e/8rY=
+
+Name: org/gcsimulator/help/Create Help Search Index.bat
+SHA1-Digest: K08JiIC7gpePVCAAbJ+/ixHxliw=
+
+Name: org/gcsimulator/help/helpfiles/tutorials.htm
+SHA1-Digest: wJYRZw2gnvlimegFP2U52eAOUBc=
+
+Name: org/gcsimulator/panels/IsothermalOptions.class
+SHA1-Digest: qBx2ot8vprhx+fnPX02Thqhs5Bg=
+
+Name: org/gcsimulator/help/helpfiles/timeconstant.htm
+SHA1-Digest: Q/BY6Xms9gPwkhrcJXa9+ZiP9Yc=
+
+Name: org/gcsimulator/help/JavaHelpSearch/OFFSETS
+SHA1-Digest: piuiP0acm5hp4uczks/NbGID8hU=
+
+Name: org/gcsimulator/help/helpfiles/images/voidtimeeq.jpg
+SHA1-Digest: 8twWAHARDEPpG9CrCsmqliS4+pQ=
+
+Name: org/gcsimulator/panels/PlotOptions.class
+SHA1-Digest: GPAZkjgSZ5VA/zZZTY0Cqo8JccU=
+
+Name: org/gcsimulator/help/helpfiles/images/nonmixingdiagram.jpg
+SHA1-Digest: cRjUahjMXbQsPXvzKaFnpBWJpgI=
+
+Name: org/gcsimulator/help/helpfiles/vandeemter.htm
+SHA1-Digest: dhFjQoc51mz8A8Aj3vPu5e44Gew=
+
+Name: org/gcsimulator/GraphControl$DRect.class
+SHA1-Digest: /s4l/yWYbiIbr+QrPpWSejp8/kk=
+
+Name: org/gcsimulator/help/helpfiles/default.css
+SHA1-Digest: qmIOM16pxfwUSbMTWvFimNQ/w0c=
+
+Name: org/gcsimulator/help/helpfiles/images/diffusioncoefficienteq.jpg
+SHA1-Digest: 3iE9Hq0+8oF9WLkCb6b8VCalU5g=
+
+Name: org/gcsimulator/AutoScaleListener.class
+SHA1-Digest: JsH9/eIS9kIpLMDjele3Qx2B41k=
+
+Name: org/gcsimulator/help/helpfiles/solventbfraction.htm
+SHA1-Digest: Xxl/s3gOgMhtMXmsJZk6cCHMp08=
+
+Name: org/gcsimulator/ImageSelection.class
+SHA1-Digest: H6HNbl1lYeemL+F/HQKYEt3/l3Q=
+
+Name: org/gcsimulator/help/helpfiles/initialtime.htm
+SHA1-Digest: 9lNCMAinBD8tECbCCLj31a5VXIg=
+
+Name: org/gcsimulator/help/helpfiles/temperature.htm
+SHA1-Digest: DAnig78DsNT4EFHgQKE/BgvA9/A=
+
+Name: org/gcsimulator/help/helpfiles/gradientelutionmode.htm
+SHA1-Digest: LH1WqkK0EIHxQW8v3nNqOGOT+iA=
+
+Name: org/gcsimulator/panels/TemperatureProgramOptions$SpecialTableMod
+ el2.class
+SHA1-Digest: Ug3gV84DAbpc4BQeZ9Ge999hC3Q=
+
+Name: org/gcsimulator/GraphControl$LineMarker.class
+SHA1-Digest: 3Z8QmdvtIGyqDO5QEU7D2pDHBN4=
+
+Name: org/gcsimulator/help/JavaHelpSearch/DOCS
+SHA1-Digest: T5TIgZTrF1U81PH0vVnrMUtDORY=
+
+Name: org/gcsimulator/help/helpfiles/generalproperties.htm
+SHA1-Digest: uwCh3M6DLJBbO22+J1CyNEzcFsY=
+
+Name: org/gcsimulator/help/helpfiles/images/mixingprofile.jpg
+SHA1-Digest: OLjRi+M8ymfAO4ZPphj5xB40xA0=
+
+Name: org/gcsimulator/help/helpfiles/automatictimespan.htm
+SHA1-Digest: 8rsQMoiIreQwPB3ZDFUy4fbm8wo=
+
+Name: org/gcsimulator/help/helpfiles/images/hetpeq.jpg
+SHA1-Digest: qCsAZOQM4KCa5klS5d6xoSDl+ek=
+
+Name: org/gcsimulator/help/helpfiles/images/reducedflowvelocityeq.jpg
+SHA1-Digest: ntztl2GxIPQ1tTWZ0PtEi54rhaA=
+
+Name: org/gcsimulator/help/helpfiles/images/chromatographicflowvelocit
+ yeq.jpg
+SHA1-Digest: 0eD2n9pCIjjvsdns4NwkQeJuU2I=
+
+Name: org/gcsimulator/panels/TemperatureProgramOptions$SpecialTableMod
+ el.class
+SHA1-Digest: s7vKJwliqtT8qLTfx6b1vSVn4DU=
+
+Name: org/gcsimulator/help/TestSearchIndex.bat
+SHA1-Digest: pvy9vQWB6AOpCv8sjmU3ITMaeE4=
+
+Name: org/gcsimulator/help/helpfiles/images/interstitialflowvelocityeq
+ .jpg
+SHA1-Digest: W2ZDUfpftoWeJffx9gnkKV+5Y8U=
+
+Name: org/gcsimulator/help/JavaHelpSearch/POSITIONS
+SHA1-Digest: DGQ1gSv2U/EUtAsI1/ZOvFN1A8k=
+
+Name: org/gcsimulator/help/helpfiles/noise.htm
+SHA1-Digest: zjGPrlMjGnMKfim+JQjzFN+r2IE=
+
+Name: org/gcsimulator/images/zoomin.png
+SHA1-Digest: 81kzzzryBmUVY6trnXz5xUvVX3k=
+
+Name: org/gcsimulator/help/helpfiles/voidtime.htm
+SHA1-Digest: Ly67y1ptMNuoOIizv/X6i9SN9oY=
+
+Name: org/gcsimulator/help/helpfiles/images/totalporosityeq.jpg
+SHA1-Digest: jUvvkCeYPLKu6xaFvwnrmTGIzh8=
+
+Name: org/gcsimulator/help/helpfiles/dwelltime.htm
+SHA1-Digest: SHHSGfighNWrrB/mHTdPDK2Rw8Q=
+
+Name: org/gcsimulator/LinearInterpolationFunction.class
+SHA1-Digest: r85HghPN9lMlHy2uv4yJ4f0+2BE=
+
+Name: org/gcsimulator/help/helpfiles/signaloffset.htm
+SHA1-Digest: tTuoTOF648pNgX6bQWLhr4dmI1s=
+
+Name: org/gcsimulator/help/helpfiles/totalporosity.htm
+SHA1-Digest: Fg+L1KWaESMsmgk5T/LoYDnvZv8=
+
+Name: org/gcsimulator/help/helpfiles/eluentviscosity.htm
+SHA1-Digest: H4yV9Ba6J6Kih+Ksd6Qc3oKYaUM=
+
+Name: org/gcsimulator/AboutDialog.class
+SHA1-Digest: gdhxbNnRgh7+I8NUu7VLFJM869o=
+
+Name: org/gcsimulator/images/autoscaleX.png
+SHA1-Digest: B/BZp+MQqGSXLVX4qcNrUAQiyfw=
+
+Name: org/gcsimulator/help/helpfiles/images/reducedplateheighteq.jpg
+SHA1-Digest: goW1pyJMgXWAGMDodaYs1gtM+wI=
+
+Name: org/gcsimulator/help/helpfiles/theoreticalplates.htm
+SHA1-Digest: 6hpXEK06SHZSX3CRbZpKOkrGDCw=
+
+Name: org/gcsimulator/help/helpfiles/plotoptions.htm
+SHA1-Digest: dPZQCTMytgSqbesL9Jq+lW0Pxic=
+
+Name: org/gcsimulator/help/Map.jhm
+SHA1-Digest: muQPbO2BebCTdbg+i8ofI204UJM=
+
+Name: org/gcsimulator/help/helpfiles/images/flowvelocityeq.jpg
+SHA1-Digest: 0pTbsvHNaSJFRzRu9bXNO8DzcuE=
+
+Name: org/gcsimulator/help/helpfiles/reducedplateheight.htm
+SHA1-Digest: m0ej9oy7XQYzDGtaUWCZErzkyvo=
+
+Name: org/gcsimulator/panels/InletOutlet.class
+SHA1-Digest: TJuQe0A7vdmAtwQYSjsd+v9jRFk=
+
+Name: org/gcsimulator/help/helpfiles/numdatapoints.htm
+SHA1-Digest: E1q3Jpkul+8wiFeZwNUJtW5O/C0=
+
+Name: org/gcsimulator/help/helpfiles/intraparticleporosity.htm
+SHA1-Digest: +LcK/CMviIMxkQ5brKWHC64+uzo=
+
+Name: org/gcsimulator/help/helpfiles/flowrate.htm
+SHA1-Digest: kecI2qyHCsNdqmp2q4dfunfq57g=
+
+Name: org/gcsimulator/images/autoscaleY.png
+SHA1-Digest: CL6wGfELcMFaat/pZ6/qJL0yBuc=
+
+Name: org/gcsimulator/help/JavaHelpSearch/TMAP
+SHA1-Digest: GZQvUCtPr4FY+t9mbhboK9kSd6M=
+
+Name: org/gcsimulator/images/pan.png
+SHA1-Digest: /l9YZRvaqf2pGkI2jwg+gYFxLm0=
+
+Name: org/gcsimulator/help/helpfiles/finaltime.htm
+SHA1-Digest: sbx65Nhg0D4MNbAuS5CAGAWwS98=
+
+Name: org/gcsimulator/help/helpfiles/solventb.htm
+SHA1-Digest: qd2snh98FIA7V/igxetGdBJC0lo=
+
+Name: org/gcsimulator/help/JavaHelpSearch/SCHEMA
+SHA1-Digest: +cWvgxGa3ZbYkcSfrD9ZCUcCUQ8=
+
+Name: org/gcsimulator/help/helpfiles/images/idealgradientprofile.jpg
+SHA1-Digest: OLqn3/5DZd5pPrMgpd3bXjtEAIc=
+
+Name: org/gcsimulator/GraphControl$DataSeries.class
+SHA1-Digest: DIWtFOpu3PFFQwt5qOVbH6leP2A=
+
+Name: org/gcsimulator/help/helpfiles/isocraticelutionmode.htm
+SHA1-Digest: HTP7TcJDQUeEf4Af+5vADzLw6zw=
+
+Name: org/gcsimulator/help/helpfiles/images/toplevel.gif
+SHA1-Digest: YgSJFArvRCbKVFacFQ4mKtnV0i0=
+
+Name: org/gcsimulator/help/helpfiles/images/viscositymeoheq.jpg
+SHA1-Digest: /n5a/02/s3kWkGX/+8ib64UOjic=
+
+Name: org/gcsimulator/help/helpfiles/images/nonmixingprofile.jpg
+SHA1-Digest: rAUBHtgkn7a1BYFuuizZFcBtDUs=
+
+Name: org/gcsimulator/help/helpfiles/images/viscosityacneq.jpg
+SHA1-Digest: 4QQbHSCV9LBSSAfjNoa9RoYcnrg=
+
+Name: org/gcsimulator/help/helpfiles/mixingvolume.htm
+SHA1-Digest: heW5U4T8BGKyjtl1/Ji0NI8439U=
+
+Name: org/gcsimulator/help/helpfiles/columndiameter.htm
+SHA1-Digest: YWjjbksMzeEkCIEo/doKCsIK+dE=
+
+Name: org/gcsimulator/images/openhand.gif
+SHA1-Digest: 4K6YxjG9TXtWx5bfO492iObNX9k=
+
+Name: org/gcsimulator/help/helpfiles/chromatographicproperties.htm
+SHA1-Digest: qx9yAeXrA3Ak1CVtAeLVqVSascU=
+
+Name: org/gcsimulator/help/helpfiles/backpressure.htm
+SHA1-Digest: EsphvqrryOLwGF3v9gm7m1jwyJo=
+
+Name: org/gcsimulator/ChemicalDialog.class
+SHA1-Digest: 5JuYF7zME2RjOemobVc3c32uoLA=
+
+Name: org/gcsimulator/help/config.txt
+SHA1-Digest: kCNlaPlTN+YHDDJ8QHKq2aqwDx0=
+
+Name: org/gcsimulator/help/helpfiles/gradientprogramtable.htm
+SHA1-Digest: YyErNofdIF2LVpqyX+i7umT5CsU=
+
+Name: org/gcsimulator/help/helpfiles/diffusioncoefficient.htm
+SHA1-Digest: OpUp3EDEY8w++6k3l4Z869ecvQk=
+
+Name: org/gcsimulator/images/help.gif
+SHA1-Digest: h/tT3uNGTY9oljjJn247XRFaNiA=
+
+Name: org/gcsimulator/help/helpfiles/dwellvolume.htm
+SHA1-Digest: /c7L+VlJaXppRfCzuM71veGZH10=
+
+Name: org/gcsimulator/help/helpfiles/particlesize.htm
+SHA1-Digest: JTkbXHZ0c8AHS3QgQdJKvTcKPO0=
+
